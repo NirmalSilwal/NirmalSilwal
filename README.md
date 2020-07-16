@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on interview preparation.
 - 🤔 I’m looking for help with interview preparation.
 - 💬 Ask me about DeepLearning, Python, and other tech stuffs.
-- 📫 How to reach me: Twitter: silwal_nirmal
+- 📫 How to reach me: [Twitter](https://twitter.com/silwal_nirmal) [Linkedln](https://www.linkedin.com/in/nirmal-silwal/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I get motivated very fast.
 
