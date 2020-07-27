@@ -1,5 +1,7 @@
 ### Hi there, I'm Nirmal Silwal 👋
 
+[![HitCount](http://hits.dwyl.com/NirmalSilwal/NirmalSilwal.svg)](http://hits.dwyl.com/NirmalSilwal/NirmalSilwal)
+
 <!--
 **NirmalSilwal/NirmalSilwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
