@@ -22,6 +22,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&language=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
  
-<img src = "https://github-readme-stats.vercel.app/api?username=NirmalSilwal&&show_icons=true&theme=radical"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&align="center")](https://github.com/anuraghazra/github-readme-stats)
-
- 
+<img src = "https://github-readme-stats.vercel.app/api?username=NirmalSilwal&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
