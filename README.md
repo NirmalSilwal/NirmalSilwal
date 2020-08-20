@@ -6,9 +6,8 @@
 **NirmalSilwal/NirmalSilwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<img align="right" alt="programmer in coding mode" src= "https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-- 🔭 I’m currently working on coding skills. 
+- 🔭 I’m currently working on coding skills. <img align="right" alt="programmer in coding mode" src= "https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 - 🌱 I’m currently learning [Algorithms and Java](https://github.com/NirmalSilwal/Data-Structure-and-Algorithm-Java-interview-kit)
 - 👯 I’m looking to collaborate on interview preparation.
 - 🤔 I’m looking for help with interview preparation.
