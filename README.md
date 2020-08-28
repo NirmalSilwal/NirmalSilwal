@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on coding skills. <img align="right" alt="programmer in coding mode" src= "https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+- 🔭 I’m currently working on coding skills. <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 300 width = 300/>
 - 🌱 I’m currently learning [Algorithms and Java](https://github.com/NirmalSilwal/Data-Structure-and-Algorithm-Java-interview-kit)
 - 👯 I’m looking to collaborate on interview preparation.
 - 🤔 I’m looking for help with interview preparation.
