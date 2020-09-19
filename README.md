@@ -9,7 +9,7 @@
  
 - 📫 How to reach me:&nbsp; <a href="https://twitter.com/silwal_nirmal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="silwal_nirmal" height="20" width="20" /></a> &nbsp;
 <a href="https://linkedin.com/in/nirmal-silwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nirmal-silwal" height="20" width="20" /></a> &nbsp;
-<a href="https://instagram.com/nirmal_silwal97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nirmal_silwal97" height="20" width="20" /></a>
+
 
  
 <img src = "https://github-readme-stats.vercel.app/api?username=NirmalSilwal&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
