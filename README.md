@@ -14,7 +14,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=NirmalSilwal&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-<summary><h3>Coding Statistics over Last 7 days. . .</h3>  </summary><br/>
+<summary><b>Coding Statistics over Last 7 days. . .</b>  </summary><br/>
   <p align="center">
     <img src = "https://wakatime.com/share/@nirmalsilwal/ca8e12f4-d5a5-47a9-997d-6fafb6a5d7d6.svg" height="400">
   </p>
