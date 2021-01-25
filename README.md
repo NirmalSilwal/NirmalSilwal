@@ -13,16 +13,14 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=NirmalSilwal&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
+
+<!---<details>
 <summary><b>Coding Statistics over Last 7 days. . .</b>  </summary><br/>
   <p align="center">
     <img src = "https://wakatime.com/share/@nirmalsilwal/ca8e12f4-d5a5-47a9-997d-6fafb6a5d7d6.svg" height="400">
   </p>
 </details>
-
-
-
-<!--- 😄 Pronouns: He/His
+ 😄 Pronouns: He/His
 - ⚡ Fun fact: Discovered my hobby of Reading during covid19.
 <img src = "https://github-readme-stats.vercel.app/api?username=NirmalSilwal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 All inbuilt themes :-
