@@ -11,7 +11,7 @@
  <a href="https://twitter.com/silwal_nirmal" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="silwal_nirmal" height="35" width="35" /></a> &nbsp;
 <br/> 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=NirmalSilwal&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=NirmalSilwal&&show_icons=true&theme=radical" alt="readme stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---<details>
