@@ -25,9 +25,17 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NirmalSilwal&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko" height="170"/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NirmalSilwal&show_icons=true&theme=radical"
+    height="170"
+    alt="Nirmal's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko"
+    height="170"
+    alt="Nirmal's Top Languages"
+  />
 </p>
 
 ## 🚧 Currently Working On
